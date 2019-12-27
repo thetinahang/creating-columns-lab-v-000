@@ -58,9 +58,11 @@ img:hover {
 }
 
 .med {
-
+  width: 201.5%;
+  height: 201.5%;
 }
 
 .large {
-
+  width: 301.5%;
+  height: 301.5%;
 }
